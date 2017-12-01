@@ -1,0 +1,24 @@
+body {
+  background: black;
+  color: white;
+  font-family: montserrat;
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+i {
+  font-size: 72px;
+}
+
+.container{
+  width: 80%;
+  max-width: 900px;
+  margin: 50px auto 0 auto;
+}
+
+#unit {
+  color: blue;
+}
